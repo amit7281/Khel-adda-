@@ -1,0 +1,46 @@
+{
+  "users": [],
+  "games": [
+    {
+      "slug": "street-racer",
+      "title": "Street Racer",
+      "type": "racing",
+      "icon": "🏎️",
+      "description": "Dodge traffic, collect coins and chase a high score.",
+      "active": true
+    },
+    {
+      "slug": "quick-tap",
+      "title": "Quick Tap",
+      "type": "tap",
+      "icon": "⚡",
+      "description": "How fast can you tap? Beat your best reaction score.",
+      "active": true
+    },
+    {
+      "slug": "rock-paper-scissors",
+      "title": "Rock Paper Scissors",
+      "type": "rps",
+      "icon": "✊",
+      "description": "Play classic RPS against the computer.",
+      "active": true
+    },
+    {
+      "slug": "mini-quiz",
+      "title": "Mini Quiz",
+      "type": "quiz",
+      "icon": "🧠",
+      "description": "Answer quick questions and earn virtual points.",
+      "active": true
+    },
+    {
+      "slug": "casino-fun",
+      "title": "Casino Fun",
+      "type": "casino",
+      "icon": "🎰",
+      "description": "Casino-style mini-games with virtual points only. No deposits or withdrawals.",
+      "active": true
+    }
+  ],
+  "results": []
+}
